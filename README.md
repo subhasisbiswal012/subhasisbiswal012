@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Subhasis Biswal 👋</h1>
 
 <p align="center">
-  Developer building apps & AI-powered tools — and sharing tech on YouTube.<br/>
-  I work across <b>.NET / C#</b> and the <b>JavaScript / TypeScript</b> stack,
-  with a strong focus on <b>Agentic AI</b> and <b>prompt engineering</b>.
+  <b>.NET developer</b> building apps & AI-powered tools — and sharing tech on YouTube.<br/>
+  My core skill is <b>.NET / C#</b>; beyond that I lean on <b>Agentic AI</b> and
+  <b>prompt engineering</b> to build across the wider stack.
 </p>
 
 <p align="center">
@@ -22,12 +22,24 @@
 
 ### 🚀 About me
 
+- 💙 My main skill is **.NET / C#** — apps, APIs, and cross-platform with **.NET MAUI**.
 - 🤖 I build with **Agentic AI** and craft **prompts** that get real work done.
-- 🛠️ I ship **apps & developer tools** — and keep my open-source work free for everyone.
+- ⚡ Beyond .NET, I ship across the web stack **with AI assistance**.
 - 🎥 I create **tech content** on my YouTube channel **[avidyant](https://www.youtube.com/@avidyant)**.
-- 🧰 Comfortable across **C# / .NET MAUI** and **JavaScript / TypeScript** projects.
 - 🌱 Always learning — then shipping it as a project or a video.
 - 💬 Ask me about anything I'm building, or just say hi.
+
+---
+
+### 💙 Core Skill — .NET
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Web API"/>
+</p>
 
 ---
 
@@ -38,45 +50,41 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Anthropic%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic API"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
 </p>
 
 ---
 
-### 🧑‍💻 Languages
+### 🧠 AI Coding Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Codex%20(CLI%20%26%20App)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+  <img src="https://img.shields.io/badge/Antigravity%20(CLI%20%26%20App)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+</p>
+
+---
+
+### ⚡ Also build with (AI-assisted)
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
----
-
-### 🧱 Frameworks & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 ---
 
-### 🛠️ Tools & IDEs
+### 🛠️ Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
@@ -87,7 +95,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Content%20Creation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Content Creation"/>
-  <img src="https://img.shields.io/badge/Video%20Editing-9146FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Video Editing"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
   <img src="https://img.shields.io/badge/Screen%20Recording-5865F2?style=for-the-badge&logo=obsstudio&logoColor=white" alt="Screen Recording"/>
   <img src="https://img.shields.io/badge/Thumbnail%20Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Thumbnail Design"/>
 </p>
